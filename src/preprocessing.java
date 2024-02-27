@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class preprocessing {
 
     public static void main(String[] args) throws Exception {
+        // Reading and Writing a file
         File file = new File("resources/input.txt");
         File output_file = new File("resources/output.txt");
         BufferedReader bufRdr = new BufferedReader(new FileReader(file));
