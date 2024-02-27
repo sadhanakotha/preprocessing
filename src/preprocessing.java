@@ -12,7 +12,7 @@ public class preprocessing {
         BufferedReader bufRdr = new BufferedReader(new FileReader(file));
         BufferedWriter writer = new BufferedWriter(new FileWriter(output_file));
         String line = null;
-//creating a conflict
+       // appending String to the line
         try {
             while ((line = bufRdr.readLine()) != null) {
                 // read line by line and append some string to the line
