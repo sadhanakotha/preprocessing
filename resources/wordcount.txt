@@ -1,0 +1,12 @@
+created a new file to count the words
+counting number of words in a given file
+STEP 1: START
+STEP 2: DEFINE String line
+STEP 3: SET count =0a
+STEP 4: USE File Reader to open file in read mode.
+STEP 5: READ line from file
+STEP 6: REPEAT STEP 7 to STEP 8 UNTIL reach the end of file
+STEP 7: SPLIT lines into words and STORE in array string words[].
+STEP 8: count = count + words.length
+STEP 9: PRINT count.
+STEP 10: END
