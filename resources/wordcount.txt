@@ -10,3 +10,4 @@ STEP 7: SPLIT lines into words and STORE in array string words[].
 STEP 8: count = count + words.length
 STEP 9: PRINT count.
 STEP 10: END
+Welocome to the text
